@@ -4,11 +4,11 @@
 
 - Additive is when you have two events and and they dont relate in any form but your asked how many options do you have between the two for example there are 6 ice creams and 10 different hot dog items how many options do you have we would say 16
 
--                                        Event $A$ and Event $b$ | $a+b$ |
+- Event $A$ and Event $b$ | $a+b$ |
 
 - Multiplicative is when two events can relate or they go togethere for example the shirt and pants represented in the book. 5 shirts and 9 pants in your wardrobe how many outfits can be made? well we would mutiply 5 shirts and 9 pants and that would give us the amont of outfits we have which would be 45.
 
-  -                                        Event $A$ Event $B$  | $a*b$ |
+  - Event $A$ Event $B$  | $a*b$ |
 
 
 ## Counting with sets
